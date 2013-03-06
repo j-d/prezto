@@ -12,3 +12,6 @@ fi
 
 # Customize to your needs...
 
+autoload -Uz promptinit
+promptinit
+prompt jr0cket
