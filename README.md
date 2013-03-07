@@ -6,9 +6,10 @@ Prezto — Instantly Awesome Zsh
 Installation
 ------------
 
-    sudo apt-get install zsh
+    sudo apt-get install git zsh
     cd
     git clone --recursive https://github.com/j-d/prezto.git .zprezto
+
     rm .zlogin
     rm .zlogout
     rm .zpreztorc
