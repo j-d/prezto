@@ -27,3 +27,12 @@ Installation
 Maybe:
 
     chsh -s /bin/zsh
+
+Ubuntu:
+* Open a terminal
+* Edit ... > Profiles
+* Default > Edit
+* Tick 'Run command as a login shell'
+* Tick 'Run a custom command instead of my shell'
+* Custom command: /usr/bin/zsh
+* Close
