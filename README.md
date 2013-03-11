@@ -32,6 +32,7 @@ Ubuntu:
 * Open a terminal
 * Edit ... > Profiles
 * Default > Edit
+* Title and Command
 * Tick 'Run command as a login shell'
 * Tick 'Run a custom command instead of my shell'
 * Custom command: /usr/bin/zsh
