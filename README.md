@@ -24,10 +24,6 @@ Installation
     ln -s ./.zprezto/runcoms/zshrc .zshrc
     zsh
 
-Ubuntu Server:
-
-    chsh -s /bin/zsh
-
 Ubuntu Desktop:
 * Open a terminal
 * Edit ... > Profiles
